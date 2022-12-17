@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "global.h": "c",
+        "dispatch.h": "c",
+        "init_cpu.h": "c",
+        "interrupt.h": "c",
+        "kernel.h": "c"
+    }
+}

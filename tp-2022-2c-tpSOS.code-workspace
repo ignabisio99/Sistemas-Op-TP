@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"path": "consola"
+		},
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "shared"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"log.h": "c",
+			"consola.h": "c",
+			"shared_utils.h": "c",
+			"stdbool.h": "c",
+			"cpu.h": "c",
+			"stdint.h": "c",
+			"config.h": "c",
+			"init_cpu.h": "c",
+			"shared_config.h": "c",
+			"string.h": "c",
+			"global.h": "c",
+			"memoria.h": "c",
+			"init_memoria.h": "c",
+			"init_kernel.h": "c",
+			"kernel.h": "c",
+			"tlb.h": "c",
+			"pthread.h": "c",
+			"semaphore.h": "c",
+			"synchro.h": "c",
+			"corto_plazo.h": "c",
+			"estructuras.h": "c",
+			"protocolo.h": "c",
+			"stdlib.h": "c",
+			"lists.h": "c",
+			"dispatcher.h": "c",
+			"list.h": "c",
+			"init_consola.h": "c",
+			"sockets.h": "c",
+			"largo_plazo.h": "c",
+			"blocked.h": "c",
+			"memory_space.h": "c",
+			"dispatch.h": "c",
+			"signal.h": "c",
+			"unistd.h": "c",
+			"interrupt.h": "c",
+			"memory_server.h": "c",
+			"readline.h": "c",
+			"swap.h": "c",
+			"types.h": "c",
+			"page_tables.h": "c",
+			"bitarray.h": "c",
+			"cmath": "c",
+			"*.tcc": "c"
+		}
+	}
+}
